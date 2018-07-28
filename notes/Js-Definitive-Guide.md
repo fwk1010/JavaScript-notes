@@ -5,7 +5,7 @@
  - 第二章 词法结构  
  - 第三章 类型、值和变量  
    <b>No.1</b> js的数据类型分为  
-   - 原始类型（primitive type）
+   - 原始类型（primitive type）
      - number（数字）
      - string (字符串)
      - boolean (布尔值)
