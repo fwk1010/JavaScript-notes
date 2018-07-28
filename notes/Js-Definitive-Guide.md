@@ -8,9 +8,9 @@
    - 原始类型（primitive type）
      - number（数字）
      - string (字符串)
-     - boolean (布尔值)
+     - boolean (布尔值)
      - null（空）
-     - undefined（未定义）
+     - undefined（未定义）
    - 对象类型（object type）  
    注：可以使用关键字 <code>typeof</code> 判断数据类型
  - 第四章 表达式与运算符  
